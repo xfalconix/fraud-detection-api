@@ -10,7 +10,7 @@
 
 Este proyecto implementa un **Autoencoder** basado en redes neuronales profundas para la deteccion de transacciones fraudulentas en tarjetas de credito. El modelo aprende a reconstruir patrones de transacciones legitimas; aquellas con alto error de reconstruccion se clasifican como anomalias potenciales (fraudes).
 
-**Autor:** ESESA - Malaga, Espana  
+**Autor:** Carlos Falconi - Malaga, Espana  
 **Fecha:** Diciembre 2025
 
 ---
@@ -173,4 +173,4 @@ MIT License - Ver archivo LICENSE para mas detalles.
 
 ---
 
-*Proyecto desarrollado como parte del curso ESESA - Malaga, Espana - 2025*
+*Proyecto desarrollado como parte del Master en Big Data, Data Engineering and AI - ESESA - Malaga, Espana - 2025-2026*
